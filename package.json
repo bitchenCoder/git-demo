@@ -1,0 +1,50 @@
+{
+  "name": "vuedemo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.25.0",
+    "jquery": "3.6.0",
+    "normalize.css": "^8.0.1",
+    "swiper": "^8.4.7",
+    "vue": "^3.2.47",
+    "vue-awesome-swiper": "^5.0.1",
+    "vue-i18n": "^9.2.2",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "4.5.13",
+    "@vue/cli-plugin-router": "4.5.0",
+    "@vue/cli-plugin-vuex": "4.5.0",
+    "@vue/cli-service": "4.5.18",
+    "axios": "0.24.0",
+    "sass": "^1.32.8",
+    "sass-loader": "^8.0.2",
+    "three": "^0.143.0",
+    "vue-template-compiler": "2.6.14"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/recommended",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
