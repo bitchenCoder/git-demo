@@ -44,6 +44,8 @@ export default {
 
     console.log(b);
 
+    let c=a;
+
 
     
 
