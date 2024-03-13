@@ -36,6 +36,8 @@ export default {
   },
   mounted() {
 
+    console.log('master branch');
+
 
   },
   computed: {
