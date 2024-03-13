@@ -38,6 +38,15 @@ export default {
 
     console.log('master branch');
 
+    console.log('first push');
+
+    let a=b;
+
+    console.log(b);
+
+
+    
+
 
   },
   computed: {
