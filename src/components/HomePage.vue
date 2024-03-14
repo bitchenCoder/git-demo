@@ -36,17 +36,7 @@ export default {
   },
   mounted() {
 
-    console.log('master branch');
-
-    console.log('first push');
-
-    let a=b;
-
-    console.log(b);
-
-    let c=a;
-
-
+    console.log('demo2');
     
 
 
